@@ -8,6 +8,7 @@ public class HomeWorkApp {
         printColor();
         System.out.println("___________________");
         compareNumbers();
+
     }
 
     public static void printThreeWords() {
